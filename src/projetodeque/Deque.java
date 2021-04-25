@@ -7,7 +7,7 @@ package projetodeque;
 
 /**
  *
- * @author Fernando
+ * @author Fernando Portella
  */
 public class Deque {
 
